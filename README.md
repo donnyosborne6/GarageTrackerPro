@@ -59,7 +59,7 @@ This repository includes a **single master DDL script** that:
 - Creates the SQL Agent job
 - Optionally triggers the DW load
 
-After placing the TSV files, simply run the master script in SSMSS (F5).
+After placing the TSV files, simply run the master script in SSMS (F5).
 Then execute the SQL Agent job:
 
 **'Process DW for Garage Tracker Pro'**
