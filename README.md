@@ -3,7 +3,7 @@
 ## Overview
 Showcasing a work sample containing a complete data analytics pipeline and reporting solution for a hypothetical auto shop system using Excel as a front-end, SQL Server as the processing engine, and Power BI for reporting. I appreciate you viewing my project, and should you have any questions, please feel free to reach me on LinkedIn at https://www.linkedin.com/in/donny-osborne-559481350/
 
-## LinkedIn Image Samples (Right-Click, Open In New Tab)
+## LinkedIn Image Samples (Right-Click, Open In New Window)
 - [Excel/VBA UI](https://media.licdn.com/dms/image/v2/D562DAQFPS3hlnJ3QwA/profile-treasury-image-shrink_8192_8192/B56ZgZiWa_HUAk-/0/1752775092757?e=1765494000&v=beta&t=q_GxZKAlyIssAdvwoJSaZoGO26G5DfN0x_26bk09qyU)
 - [Power BI Summary Page](https://media.licdn.com/dms/image/v2/D562DAQFo_he3YWPRFw/profile-treasury-image-shrink_800_800/B56ZgZjMvoHMAc-/0/1752775314796?e=1765494000&v=beta&t=6y8pQgjP9e2pTvPNeil7k2sliTzn6qtbXLcva2LPmMM)
 - [Power BI Payments Page](https://media.licdn.com/dms/image/v2/D562DAQFo_he3YWPRFw/profile-treasury-image-shrink_800_800/B56ZgZjMvoHMAc-/0/1752775314796?e=1765494000&v=beta&t=6y8pQgjP9e2pTvPNeil7k2sliTzn6qtbXLcva2LPmMM)
