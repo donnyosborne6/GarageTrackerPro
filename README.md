@@ -3,8 +3,11 @@
 ## Overview
 Showcasing a work sample containing a complete data analytics pipeline and reporting solution for a hypothetical auto shop system using Excel as a front-end, SQL Server as the processing engine, and Power BI for reporting. I appreciate you viewing my project, and should you have any questions, please feel free to reach me on LinkedIn at https://www.linkedin.com/in/donny-osborne-559481350/
 
-## Image Samples
-To see images of the database diagram, Excel UI and Power BI report pages please click my LinkedIn link above and navigate to my portfolio. Thanks!
+## LinkedIn Image Samples
+- [Excel/VBA UI](https://media.licdn.com/dms/image/v2/D562DAQFPS3hlnJ3QwA/profile-treasury-image-shrink_8192_8192/B56ZgZiWa_HUAk-/0/1752775092757?e=1765494000&v=beta&t=q_GxZKAlyIssAdvwoJSaZoGO26G5DfN0x_26bk09qyU)
+- [Power BI Summary Page](https://media.licdn.com/dms/image/v2/D562DAQFo_he3YWPRFw/profile-treasury-image-shrink_800_800/B56ZgZjMvoHMAc-/0/1752775314796?e=1765494000&v=beta&t=6y8pQgjP9e2pTvPNeil7k2sliTzn6qtbXLcva2LPmMM)
+- [Power BI Payments Page](https://media.licdn.com/dms/image/v2/D562DAQFo_he3YWPRFw/profile-treasury-image-shrink_800_800/B56ZgZjMvoHMAc-/0/1752775314796?e=1765494000&v=beta&t=6y8pQgjP9e2pTvPNeil7k2sliTzn6qtbXLcva2LPmMM)
+- [GTP_DW Database Diagram Fact/Dim](https://media.licdn.com/dms/image/v2/D562DAQGJV2XUjHHDfA/profile-treasury-image-shrink_800_800/B56ZgZjB80HcAg-/0/1752775270622?e=1765494000&v=beta&t=w-E3wBpEqHYda3_aEzwmrCn1amhkNnaEd1alQNIj7UM)
 
 ## Components
 - <strong>Excel UI:</strong> Uses ActiveX controls and shapes/images for a unique UI/UX experience designed for visually stunning interface that is extendable to other business types, like landscaping, bookkeeping, house cleaning, etc.
