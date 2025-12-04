@@ -32,9 +32,6 @@ Showcasing a work sample containing a complete data analytics pipeline and repor
 - <strong>Business Outcome:</strong>
   - Enabled structured reporting from an semi-structured Excel process
   - Delivered automated, scalable analytics in two clean Power BI views
- 
-Data Warehouse Database Diagram for Fact/Dim Tables:
-![Datbase Diagram](docs/Database Diagram.png)
 
 ## Master DDL Script
 This solution has a master DDL script you can execute in one step to launch the data warehouse once the TSV files have been stored to your machine. In addition, there's seperate single files for each one of the pieces of the solution. Once you load the files and download the master DDL script, you just need to run it with F5 and then trigger the SQL Agent Job "" to begin the data import.
