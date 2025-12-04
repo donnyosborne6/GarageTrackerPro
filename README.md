@@ -3,6 +3,9 @@
 ## Overview
 Showcasing a work sample containing a complete data analytics pipeline and reporting solution for a hypothetical auto shop system using Excel as a front-end, SQL Server as the processing engine, and Power BI for reporting. I appreciate you viewing my project, and should you have any questions, please feel free to reach me on LinkedIn at https://www.linkedin.com/in/donny-osborne-559481350/
 
+## Image Samples
+To see images of the database diagram, Excel UI and Power BI report pages please click my LinkedIn link above and navigate to my portfolio. Thanks!
+
 ## Components
 - <strong>Excel UI:</strong> Uses ActiveX controls and shapes/images for a unique UI/UX experience designed for visually stunning interface that is extendable to other business types, like landscaping, bookkeeping, house cleaning, etc.
 - <strong>SQL Server Data Warehouse:</strong>Code samples, stored procedures, and SQL Agent job for automated ETL.
