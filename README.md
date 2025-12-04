@@ -116,5 +116,5 @@ You may now run the master DDL script and trigger the SQL Agent job.
 
 This project is licensed under the MIT License.
 
-**Copyright (c) 2025 Donny Osborne (donnyosborne6)
+**Copyright (c) 2025 Donny Osborne (donnyosborne6)**
 
