@@ -3,7 +3,7 @@
 ## Overview
 This repository showcases a complete data analytics pipeline and reporting solution for a hypothetical auto shop system using Excel as a UI, SQL Server as the processing engine, and Power BI for reporting. 
 
-If you have any questions, feel free to contact me on using the links below:
+If you have any questions, feel free to contact me on using the links below:<br/>
 [LinkedIn](https://www.linkedin.com/in/donny-osborne-559481350/)
 donald.osborne6 [at] gmail [dot] com
 
