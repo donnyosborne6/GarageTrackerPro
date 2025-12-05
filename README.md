@@ -3,13 +3,9 @@
 ## Overview
 This repository showcases a complete data analytics pipeline and reporting solution for a hypothetical auto shop system using Excel as a UI, SQL Server as the processing engine, and Power BI for reporting. 
 
-If you have any questions, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/donny-osborne-559481350/)
-
-## LinkedIn Image Samples:
-- [Excel/VBA UI](https://media.licdn.com/dms/image/v2/D562DAQFPS3hlnJ3QwA/profile-treasury-image-shrink_8192_8192/B56ZgZiWa_HUAk-/0/1752775092757?e=1765494000&v=beta&t=q_GxZKAlyIssAdvwoJSaZoGO26G5DfN0x_26bk09qyU)
-- [Power BI Summary Page](https://media.licdn.com/dms/image/v2/D562DAQFo_he3YWPRFw/profile-treasury-image-shrink_800_800/B56ZgZjMvoHMAc-/0/1752775314796?e=1765494000&v=beta&t=6y8pQgjP9e2pTvPNeil7k2sliTzn6qtbXLcva2LPmMM)
-- [Power BI Payments Page](https://media.licdn.com/dms/image/v2/D562DAQFo_he3YWPRFw/profile-treasury-image-shrink_800_800/B56ZgZjMvoHMAc-/0/1752775314796?e=1765494000&v=beta&t=6y8pQgjP9e2pTvPNeil7k2sliTzn6qtbXLcva2LPmMM)
-- [GTP_DW Database Diagram Fact/Dim](https://media.licdn.com/dms/image/v2/D562DAQGJV2XUjHHDfA/profile-treasury-image-shrink_800_800/B56ZgZjB80HcAg-/0/1752775270622?e=1765494000&v=beta&t=w-E3wBpEqHYda3_aEzwmrCn1amhkNnaEd1alQNIj7UM)
+If you have any questions, feel free to contact me on using the links below:
+[LinkedIn](https://www.linkedin.com/in/donny-osborne-559481350/)
+donald.osborne6 [at] gmail [dot] com
 
 ## Components
 ### **Excel UI**
@@ -111,6 +107,12 @@ Please follow these steps to ensure the data for this project is available to th
 - 'WorkOrders.txt'
 
 You may now run the master DDL script and trigger the SQL Agent job.
+
+## Branding Notice
+
+The “Dynasty Designs, LLC” name and logo shown in screenshots throughout this repository are included with full permission. I am a co-owner and legal governor of Dynasty Designs, LLC, and the branding represents my personal design work used for portfolio and demonstration purposes.
+
+This project is not a commercial software product. The UI and images included are mockups created solely to showcase data engineering, Excel/VBA UI development, and Power BI analytics capabilities for recruiters, hiring managers, or individuals interested in learning about end-to-end analytics pipelines. The work is available for free distribution under the MIT License terms listed below.
 
 # License
 
