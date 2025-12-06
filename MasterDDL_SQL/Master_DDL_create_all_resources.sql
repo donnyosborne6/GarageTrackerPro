@@ -87,7 +87,7 @@ CREATE TABLE [GTP_Staging]..[stg_PaymentRawData]
 	[PaymentType]       NVARCHAR(100) NULL,
 	[PaymentAmount]     NVARCHAR(100) NULL,
 	[LoadDT]			DATETIME      NULL
-)
+) ON [PRIMARY]
 GO
 
 -- Vehicle staging table
@@ -280,7 +280,7 @@ CREATE TABLE [GTP_DW]..[dim_Vehicle]
 	[VehicleYear]             INT           NULL,
 	[VehicleVinLicenseNumber] VARCHAR(30)   NULL,
 	[LoadDT]                  DATETIME      NULL
-)
+) ON [PRIMARY]
 GO
 
 ALTER TABLE [GTP_DW]..[dim_Vehicle] ADD  DEFAULT (GETDATE()) FOR [LoadDT]
