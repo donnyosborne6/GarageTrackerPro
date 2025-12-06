@@ -1,0 +1,1 @@
+The scripts included in this folder show the individual pieces of the Master DDL script in the MasterDDL_SQL folder that are responsible for setting up the data warehouse in your SQL Server environment. For easiest implementation, please download the complete script from the MasterDDL_SQL folder to implement the pop-up architecture that feeds the Power BI report.
