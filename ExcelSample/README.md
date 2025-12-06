@@ -1,0 +1,1 @@
+This picture shows the original Excel UI that inspired the remaining pieces of this showcase portfolio project. The logo belongs to my dad and I for his woodworking hobby, and it was included just to improve the aesthetics of the project.
